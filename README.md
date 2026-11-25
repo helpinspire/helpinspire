@@ -1,6 +1,6 @@
 # Hi, I’m Brooks
 
-I’m a senior software engineer who works directly with clients and owns projects from discovery through production. I turn business needs into technical plans, design the architecture, build across the stack, and carry the work through launch and ongoing support.
+I’m a senior software engineer who works directly with clients and owns projects from discovery through production. I’ve built or contributed to **more than 1,000 software projects**. I turn business needs into technical plans, design the architecture, build across the stack, and carry the work through launch and ongoing support.
 
 I build custom web applications, client portals, APIs, and integrations using **PHP, Laravel, Ruby, Python, JavaScript, React, WordPress, and the list goes on and on.** My work includes building new systems and modernizing applications that businesses already depend on.
 
