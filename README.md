@@ -13,6 +13,26 @@ I build custom web applications, client portals, APIs, and integrations using **
 
 ## Selected work
 
-- **Operations platform redesign.** Redesigned workflows for an aviation operations platform and migrated more than 300 documents into the new system.
-- **Client onboarding integration.** Connected a WordPress site to an external platform to automate client onboarding.
-- **Production application modernization.** Shipped improvements across live applications, including performance work and repairs to business-critical workflows.
+### Full hospital systems
+
+I built complete software systems for hospitals, turning operational requirements into working applications. I worked directly with stakeholders to define workflows, designed the architecture and data model, built the frontend and backend, and carried the systems through deployment and production support.
+
+### M3 SafeHelipad
+
+I built M3’s SafeHelipad platform from scratch. It serves **thousands of helipads worldwide** and gives operators a central place to manage helipad records, inspections, personnel, and documents. I’ve continued to evolve the platform, redesigning inspection workflows and migrating hundreds of operational documents into the new system.
+
+### Large-scale WordPress sites
+
+I’ve built, launched, and modernized large WordPress sites with custom content models, search and filtering, editorial workflows, and third-party integrations. My work covers the public frontend and the tools clients use to run the site, including migrating existing content, improving page performance, and fixing issues in production.
+
+### E-commerce stores and distributor portals
+
+I’ve built online stores and distributor portals around real product catalogs and business workflows. That work includes product discovery, inventory and availability, checkout and payment integrations, and access to distributor resources. I work across the storefront and the systems that support it, including ERP integrations.
+
+### Automated client onboarding
+
+I integrated a WordPress site with an external platform to automate client onboarding. I built and tested the data handoff, deployed the integration, and supported changes to the workflow after launch.
+
+### Member portals and secure document delivery
+
+I’ve worked on member portals with account management and protected resources. In one production portal, I traced a failure in encrypted document delivery to the download key configuration and restored access.
